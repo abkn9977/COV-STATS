@@ -1,2 +1,5 @@
 # COV-STATS
-Android app to track covid 19 cases.
+
+##1. Covid cases globally
+
+##2. Countriwise cases
